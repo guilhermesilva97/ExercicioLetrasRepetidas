@@ -1,0 +1,16 @@
+F:\IaraTech\LetrasRepetidas\LetrasRepetidas\bin\Debug\net5.0\LetrasRepetidas.exe
+F:\IaraTech\LetrasRepetidas\LetrasRepetidas\bin\Debug\net5.0\LetrasRepetidas.deps.json
+F:\IaraTech\LetrasRepetidas\LetrasRepetidas\bin\Debug\net5.0\LetrasRepetidas.runtimeconfig.json
+F:\IaraTech\LetrasRepetidas\LetrasRepetidas\bin\Debug\net5.0\LetrasRepetidas.runtimeconfig.dev.json
+F:\IaraTech\LetrasRepetidas\LetrasRepetidas\bin\Debug\net5.0\LetrasRepetidas.dll
+F:\IaraTech\LetrasRepetidas\LetrasRepetidas\bin\Debug\net5.0\ref\LetrasRepetidas.dll
+F:\IaraTech\LetrasRepetidas\LetrasRepetidas\bin\Debug\net5.0\LetrasRepetidas.pdb
+F:\IaraTech\LetrasRepetidas\LetrasRepetidas\obj\Debug\net5.0\LetrasRepetidas.csproj.AssemblyReference.cache
+F:\IaraTech\LetrasRepetidas\LetrasRepetidas\obj\Debug\net5.0\LetrasRepetidas.GeneratedMSBuildEditorConfig.editorconfig
+F:\IaraTech\LetrasRepetidas\LetrasRepetidas\obj\Debug\net5.0\LetrasRepetidas.AssemblyInfoInputs.cache
+F:\IaraTech\LetrasRepetidas\LetrasRepetidas\obj\Debug\net5.0\LetrasRepetidas.AssemblyInfo.cs
+F:\IaraTech\LetrasRepetidas\LetrasRepetidas\obj\Debug\net5.0\LetrasRepetidas.csproj.CoreCompileInputs.cache
+F:\IaraTech\LetrasRepetidas\LetrasRepetidas\obj\Debug\net5.0\LetrasRepetidas.dll
+F:\IaraTech\LetrasRepetidas\LetrasRepetidas\obj\Debug\net5.0\ref\LetrasRepetidas.dll
+F:\IaraTech\LetrasRepetidas\LetrasRepetidas\obj\Debug\net5.0\LetrasRepetidas.pdb
+F:\IaraTech\LetrasRepetidas\LetrasRepetidas\obj\Debug\net5.0\LetrasRepetidas.genruntimeconfig.cache
